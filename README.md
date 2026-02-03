@@ -9,7 +9,7 @@ This project provides an interactive interface for users to input loan applicant
 ## 🛠 Tech Stack
 
 - **Language:** Python 3.x
-- **Web Framework:** [Streamlit]([https://streamlit.io/](https://loan-payback-web-8ghn4xxfgxagbnijwjtmnx.streamlit.app))
+- **Web Framework:** [Streamlit](https://loan-payback-web-8ghn4xxfgxagbnijwjtmnx.streamlit.app))
 - **Data Science & ML:**
   - Pandas
   - NumPy
