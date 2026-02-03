@@ -9,7 +9,7 @@ This project provides an interactive interface for users to input loan applicant
 ## 🛠 Tech Stack
 
 - **Language:** Python 3.x
-- **Web Framework:** [Streamlit](https://streamlit.io/)
+- **Web Framework:** [Streamlit]([https://streamlit.io/](https://loan-payback-web-8ghn4xxfgxagbnijwjtmnx.streamlit.app))
 - **Data Science & ML:**
   - Pandas
   - NumPy
@@ -42,7 +42,7 @@ loan-payback-web/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Puliya99/loan-payback-web>
    cd loan-payback-web
    ```
 
