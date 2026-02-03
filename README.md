@@ -42,7 +42,7 @@ loan-payback-web/
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/Puliya99/loan-payback-web>
+   git clone <https://github.com/Puliya99/loan-payback-web.git>
    cd loan-payback-web
    ```
 
