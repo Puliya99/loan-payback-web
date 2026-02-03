@@ -1,0 +1,21 @@
+# virtual env
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# large ML artifacts
+*.pkl
+*.joblib
+
+# data files (choose what you want)
+input/
+*.csv
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# results images (optional)
+results/__results___files/
